@@ -1897,7 +1897,7 @@ html.android4 .page-wrapper .row.row-parent {
     padding-top: 0px;
   }
 }
-@media (min-width: 571px) and (max-width: 959px) {
+@media (min-width: 320px) and (max-width: 959px) {
   .main-container .inverted-device-order .col-half-gutter .row-inner > div:first-child:not([class*=col-md]) {
     padding-top: 18px;
   }
@@ -1907,7 +1907,7 @@ html.android4 .page-wrapper .row.row-parent {
     padding-top: 18px;
   }
 }
-@media (min-width: 571px) and (max-width: 959px) {
+@media (min-width: 320px) and (max-width: 959px) {
   .main-container .inverted-device-order .col-one-gutter .row-inner > div:first-child:not([class*=col-md]) {
     padding-top: 1px;
   }
@@ -1917,7 +1917,7 @@ html.android4 .page-wrapper .row.row-parent {
     padding-top: 1px;
   }
 }
-@media (min-width: 571px) and (max-width: 959px) {
+@media (min-width: 320px) and (max-width: 959px) {
   .main-container .cols-md-responsive {
     margin-left: -36px;
   }
@@ -2802,7 +2802,7 @@ article.hentry .main-container .row-container .row-parent {
     min-height: 0 !important;
   }
 }
-@media (min-width: 571px) and (max-width: 959px) {
+@media (min-width: 320px) and (max-width: 959px) {
   .col-md-100,
   .col-md-75,
   .col-md-66,
@@ -6435,7 +6435,7 @@ ul.menu-smart {
     width: 16.666666666666664%;
   }
   .menu-horizontal .menu-smart > .mega-menu .mega-menu-inner.mega-menu-seven > li {
-    width: 14.285714286%;
+    width: 14.283204286%;
   }
   .menu-horizontal .menu-smart > .mega-menu .mega-menu-inner.mega-menu-eight > li {
     width: 12.5%;
@@ -6622,7 +6622,7 @@ body.menu-accordion-active .menu-accordion ul.menu-smart:not(.menu-smart-init) .
   padding: 9px 36px 9px 36px;
 }
 .menu-accordion .menu-smart ul a {
-  margin-left: 0.571px;
+  margin-left: 0.320px;
 }
 .menu-accordion .menu-smart ul ul a {
   margin-left: 1.143px;
@@ -6634,7 +6634,7 @@ body.menu-accordion-active .menu-accordion ul.menu-smart:not(.menu-smart-init) .
   margin-left: 3.429px;
 }
 .menu-accordion .menu-smart ul ul ul ul ul a {
-  margin-left: 4.571px;
+  margin-left: 4.320px;
 }
 .menu-accordion .menu-smart li {
   border-left: 0px !important;
@@ -6710,7 +6710,7 @@ body.menu-accordion-active .menu-accordion ul.menu-smart:not(.menu-smart-init) .
     padding: 9px 36px 9px 36px;
   }
   .menu-smart ul a {
-    margin-left: 0.571px;
+    margin-left: 0.320px;
   }
   .menu-smart ul ul a {
     margin-left: 1.143px;
@@ -6722,7 +6722,7 @@ body.menu-accordion-active .menu-accordion ul.menu-smart:not(.menu-smart-init) .
     margin-left: 3.429px;
   }
   .menu-smart ul ul ul ul ul a {
-    margin-left: 4.571px;
+    margin-left: 4.320px;
   }
   .menu-smart li {
     border-left: 0px !important;
