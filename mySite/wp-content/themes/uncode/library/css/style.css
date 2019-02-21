@@ -374,7 +374,14 @@ body {
 .no-vmargin > .row-inner > div[class*=col-lg-]:not(.logo-container) {
   padding: 0px;
 }
-
+@media (max-width: 569px) {
+  body.menu-mobile-centered .mobile-hidden:not(.social-icon):not(.menu-social) {
+    /*display: none !important;*/
+  }
+  body:not(.menu-mobile-centered) .mobile-hidden {
+    /*display: none !important;*/
+  }
+}
 @media (min-width: 570px) and (max-width: 959px) {
   body.menu-mobile-centered .tablet-hidden:not(.social-icon):not(.menu-social) {
     display: none !important;
