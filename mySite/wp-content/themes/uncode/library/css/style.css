@@ -376,10 +376,10 @@ body {
 }
 @media (max-width: 569px) {
   body.menu-mobile-centered .mobile-hidden:not(.social-icon):not(.menu-social) {
-    /*display: none !important;*/
+    display: none !important;
   }
   body:not(.menu-mobile-centered) .mobile-hidden {
-    /*display: none !important;*/
+    display: none !important;
   }
 }
 @media (min-width: 570px) and (max-width: 959px) {
